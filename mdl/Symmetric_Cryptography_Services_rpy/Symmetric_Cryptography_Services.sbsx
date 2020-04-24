@@ -17,7 +17,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
 							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes</_hsubsystem>
 							<_hname type="a">PSWA_Package</_hname>
 							<_hid type="a">GUID afb0e42d-a399-4819-bb39-46f0fd0f0fbf</_hid>
@@ -25,10 +25,10 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">3.6.2020::16:0:21</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.6.2020::16:0:21</_modifiedTime>
+			<_modifiedTimeWeak type="a">4.24.2020::14:15:13</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.24.2020::14:15:13</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">3.6.2020::16:0:21</weakCGTime>
+			<weakCGTime type="a">4.24.2020::14:15:13</weakCGTime>
 			<strongCGTime type="a">3.5.2020::17:19:0</strongCGTime>
 			<_defaultComposite type="s">GUID 2708bae8-244b-4bfd-88ae-fd77d35a47a8</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -373,8 +373,8 @@
 			</_properties>
 			<_name type="a">Crypto_Server_Nominal_Scenario</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.6.2020::12:53:39</_modifiedTime>
-			<_lastModifiedTime type="a">3.6.2020::12:53:39</_lastModifiedTime>
+			<_modifiedTime type="a">4.24.2020::14:12:28</_modifiedTime>
+			<_lastModifiedTime type="a">4.24.2020::14:12:28</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -1338,7 +1338,7 @@
 			<m_pParent type="s">GUID 79fb2ffe-bd2d-41b0-9b4b-41e4f9d909eb</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">:i_Symmetric_Cryptography_Services</m_str>
+					<m_str type="a">:Symmetric_Cryptography_Services</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4315,8 +4315,8 @@ The server knows this client, it is currently available for a new request.\f0\pa
 			</_properties>
 			<_name type="a">Crypto_Server_Sever_Full_Scenario</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.6.2020::13:4:27</_modifiedTime>
-			<_lastModifiedTime type="a">3.6.2020::13:4:27</_lastModifiedTime>
+			<_modifiedTime type="a">4.24.2020::14:12:28</_modifiedTime>
+			<_lastModifiedTime type="a">4.24.2020::14:12:28</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -5203,7 +5203,7 @@ The server knows this client, it is currently available for a new request.\f0\pa
 			<m_pParent type="s">GUID c475cf51-5233-4494-bf3a-39e6154ef432</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">:i_Symmetric_Cryptography_Services</m_str>
+					<m_str type="a">:Symmetric_Cryptography_Services</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -7199,8 +7199,8 @@ The server knows this client, it is currently available for a new request.\f0\pa
 			</_properties>
 			<_name type="a">Crypto_Server_Unknown_Client_Scenario</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.6.2020::15:52:21</_modifiedTime>
-			<_lastModifiedTime type="a">3.6.2020::15:52:21</_lastModifiedTime>
+			<_modifiedTime type="a">4.24.2020::14:12:28</_modifiedTime>
+			<_lastModifiedTime type="a">4.24.2020::14:12:28</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -7638,7 +7638,7 @@ The server knows this client, it is currently available for a new request.\f0\pa
 			<m_pParent type="s">GUID 29dbc448-39fb-4dfc-b96e-1cab392a4de3</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">:i_Symmetric_Cryptography_Services</m_str>
+					<m_str type="a">:Symmetric_Cryptography_Services</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -9010,14 +9010,14 @@ The server knows this client, it is currently available for a new request.\f0\pa
 				</Subjects>
 			</IPropertyContainer>
 			</_properties>
-			<_name type="a">CD_i_Symmetric_Cryptography_Services</_name>
+			<_name type="a">CD_Symmetric_Cryptography_Services</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
 							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes::Diagrams</_hsubsystem>
 							<_hname type="a">PSWA_Diagram</_hname>
 							<_hid type="a">GUID c7b74034-874b-4fb8-b488-dec424934ba4</_hid>
@@ -9026,8 +9026,8 @@ The server knows this client, it is currently available for a new request.\f0\pa
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">3.6.2020::16:0:32</_modifiedTime>
-			<_lastModifiedTime type="a">3.6.2020::16:0:32</_lastModifiedTime>
+			<_modifiedTime type="a">4.24.2020::14:15:44</_modifiedTime>
+			<_lastModifiedTime type="a">4.24.2020::14:15:44</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -9197,7 +9197,7 @@ The server knows this client, it is currently available for a new request.\f0\pa
 			<m_pParent type="s">GUID c7df4bc2-0bfc-43d7-9491-f566de202a75</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">i_Symmetric_Cryptography_Services</m_str>
+					<m_str type="a">Symmetric_Cryptography_Services</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -9345,7 +9345,7 @@ The server knows this client, it is currently available for a new request.\f0\pa
 			<m_pParent type="s">GUID c7df4bc2-0bfc-43d7-9491-f566de202a75</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">Open_Session(key:uint8_array,request_status:E_SESSION_REQUEST_STATUS,client_id:uint8):</m_str>
+					<m_str type="a">Open_Session(key:uint8_array,request_status:E_Crypto_Session_Request_Status,client_id:uint8):</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -9440,7 +9440,7 @@ The server knows this client, it is currently available for a new request.\f0\pa
 			<m_pParent type="s">GUID c7df4bc2-0bfc-43d7-9491-f566de202a75</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">Treat_Message(client_id:uint8,input_message:uint8_array,message_length:uint16,action:E_CRYPTO_ACTION,output_message:uint8_array):</m_str>
+					<m_str type="a">Treat_Message(client_id:uint8,input_message:uint8_array,message_length:uint16,action:E_Crypto_Action,output_message:uint8_array):</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -9628,7 +9628,7 @@ The server knows this client, it is currently available for a new request.\f0\pa
 			<m_pParent type="s">GUID c7df4bc2-0bfc-43d7-9491-f566de202a75</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">Get_Session_Status(client_id:uint8,status:E_SESSION_STATUS):</m_str>
+					<m_str type="a">Get_Session_Status(client_id:uint8,status:E_Crypto_Session_Status):</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -9722,7 +9722,7 @@ The server knows this client, it is currently available for a new request.\f0\pa
 			<m_pParent type="s">GUID c7df4bc2-0bfc-43d7-9491-f566de202a75</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">E_SESSION_REQUEST_STATUS</m_str>
+					<m_str type="a">E_Crypto_Session_Request_Status</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -9738,7 +9738,7 @@ The server knows this client, it is currently available for a new request.\f0\pa
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">4104</m_drawBehavior>
-			<m_transform type="a">0.20541 0 0 0.132293 846 306.397 </m_transform>
+			<m_transform type="a">0.20541 0 0 0.132293 846 266.397 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -9829,7 +9829,7 @@ The server knows this client, it is currently available for a new request.\f0\pa
 			<m_pParent type="s">GUID c7df4bc2-0bfc-43d7-9491-f566de202a75</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">E_CRYPTO_ACTION</m_str>
+					<m_str type="a">E_Crypto_Action</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -9936,7 +9936,7 @@ The server knows this client, it is currently available for a new request.\f0\pa
 			<m_pParent type="s">GUID c7df4bc2-0bfc-43d7-9491-f566de202a75</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">E_SESSION_STATUS</m_str>
+					<m_str type="a">E_Crypto_Session_Status</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -10017,14 +10017,14 @@ The server knows this client, it is currently available for a new request.\f0\pa
 		<IClass type="e">
 			<_id type="a">GUID 50580152-3162-41c9-b492-854c294000f9</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">i_Symmetric_Cryptography_Services</_name>
+			<_name type="a">Symmetric_Cryptography_Services</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
 							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes::Interfaces</_hsubsystem>
 							<_hname type="a">Client_Server_Interface</_hname>
 							<_hid type="a">GUID 74d15759-da33-4217-9115-4cad66849eff</_hid>
@@ -10032,7 +10032,7 @@ The server knows this client, it is currently available for a new request.\f0\pa
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">3.6.2020::15:57:59</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.24.2020::14:12:28</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -10046,10 +10046,10 @@ The server knows this client, it is currently available for a new request.\f0\pa
 				<_text type="a">Gathers operations that can be realized by a server Component_Type providing symmetric cryptography services.</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">3.6.2020::15:57:59</_modifiedTime>
+			<_modifiedTime type="a">4.24.2020::14:12:28</_modifiedTime>
 			<_lastID type="a">5</_lastID>
-			<weakCGTime type="a">3.6.2020::15:57:59</weakCGTime>
-			<strongCGTime type="a">3.5.2020::17:19:31</strongCGTime>
+			<weakCGTime type="a">4.24.2020::14:12:28</weakCGTime>
+			<strongCGTime type="a">4.24.2020::14:12:28</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -10105,7 +10105,7 @@ The server knows this client, it is currently available for a new request.\f0\pa
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
 							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes::Interfaces</_hsubsystem>
 							<_hname type="a">Asynchronous_Operation</_hname>
 							<_hid type="a">GUID cb10b39d-04db-49fa-8fc9-89760eff9508</_hid>
@@ -10154,7 +10154,7 @@ If the key is invalid, \ulwave request_status\ulnone  is set to INVALID_KEY and 
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
-					<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
 					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
 					<_hname type="a">uint8_array</_hname>
 					<_hid type="a">GUID b86a2bc4-2c3f-4cff-9217-4a07af95fdd2</_hid>
@@ -10187,7 +10187,7 @@ If the key is invalid, \ulwave request_status\ulnone  is set to INVALID_KEY and 
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
-					<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
 					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
 					<_hname type="a">uint8</_hname>
 					<_hid type="a">GUID 058963e7-375f-4f57-aceb-5a2f36b75490</_hid>
@@ -10246,7 +10246,7 @@ If the key is invalid, \ulwave request_status\ulnone  is set to INVALID_KEY and 
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
 							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes::Interfaces</_hsubsystem>
 							<_hname type="a">Asynchronous_Operation</_hname>
 							<_hid type="a">GUID cb10b39d-04db-49fa-8fc9-89760eff9508</_hid>
@@ -10295,7 +10295,7 @@ The treated message is provided by the server through the \ulwave output_message
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
-					<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
 					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
 					<_hname type="a">uint8</_hname>
 					<_hid type="a">GUID 058963e7-375f-4f57-aceb-5a2f36b75490</_hid>
@@ -10313,7 +10313,7 @@ The treated message is provided by the server through the \ulwave output_message
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
-					<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
 					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
 					<_hname type="a">uint8_array</_hname>
 					<_hid type="a">GUID b86a2bc4-2c3f-4cff-9217-4a07af95fdd2</_hid>
@@ -10331,7 +10331,7 @@ The treated message is provided by the server through the \ulwave output_message
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
-					<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
 					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
 					<_hname type="a">uint16</_hname>
 					<_hid type="a">GUID 0d6a9487-2e1a-4d71-8dcb-52824fa8170d</_hid>
@@ -10364,7 +10364,7 @@ The treated message is provided by the server through the \ulwave output_message
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
-					<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
 					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
 					<_hname type="a">uint8_array</_hname>
 					<_hid type="a">GUID b86a2bc4-2c3f-4cff-9217-4a07af95fdd2</_hid>
@@ -10423,7 +10423,7 @@ The treated message is provided by the server through the \ulwave output_message
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
 							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes::Interfaces</_hsubsystem>
 							<_hname type="a">Synchronous_Operation</_hname>
 							<_hid type="a">GUID 739c3d19-e20b-4e24-bab1-ec51826db9b5</_hid>
@@ -10467,7 +10467,7 @@ If the \ulwave client_id\ulnone  is known by the server, the server will return 
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
-					<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
 					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
 					<_hname type="a">uint8</_hname>
 					<_hid type="a">GUID 058963e7-375f-4f57-aceb-5a2f36b75490</_hid>
@@ -10541,7 +10541,7 @@ If the \ulwave client_id\ulnone  is known by the server, the server will return 
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Physical_Software_Architecture_Metamodel.sbsx</_hfilename>
 							<_hsubsystem type="a">Physical_Software_Architecture_Metamodel::Stereotypes::Interfaces</_hsubsystem>
 							<_hname type="a">Synchronous_Operation</_hname>
 							<_hid type="a">GUID 739c3d19-e20b-4e24-bab1-ec51826db9b5</_hid>
@@ -10577,7 +10577,7 @@ If the \ulwave client_id\ulnone  is known by the server, the server will return 
 			<_typeOf type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IType</_hm2Class>
-					<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+					<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
 					<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
 					<_hname type="a">uint8</_hname>
 					<_hid type="a">GUID 058963e7-375f-4f57-aceb-5a2f36b75490</_hid>
@@ -10596,14 +10596,14 @@ If the \ulwave client_id\ulnone  is known by the server, the server will return 
 		<IType type="e">
 			<_id type="a">GUID c2ae2616-d653-4f1d-a6d5-46db40188dc4</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">E_CRYPTO_ACTION</_name>
+			<_name type="a">E_Crypto_Action</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
 							<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
 							<_hname type="a">Data_Type</_hname>
 							<_hid type="a">GUID e059166f-c470-4144-ae7d-af8a82db546f</_hid>
@@ -10611,12 +10611,12 @@ If the \ulwave client_id\ulnone  is known by the server, the server will return 
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">3.6.2020::16:0:16</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.24.2020::14:13:0</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">Allows to model a data representing an action of a symmetric cryptography algorithm.</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">3.6.2020::16:0:16</_modifiedTime>
+			<_modifiedTime type="a">4.24.2020::14:13:0</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_kind type="a">Enumeration</_kind>
 			<AggregatesList type="e">
@@ -10639,14 +10639,14 @@ If the \ulwave client_id\ulnone  is known by the server, the server will return 
 		<IType type="e">
 			<_id type="a">GUID 1180bd5f-4e8f-4bc0-9cf7-c3ec24352b2d</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">E_SESSION_REQUEST_STATUS</_name>
+			<_name type="a">E_Crypto_Session_Request_Status</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
 							<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
 							<_hname type="a">Data_Type</_hname>
 							<_hid type="a">GUID e059166f-c470-4144-ae7d-af8a82db546f</_hid>
@@ -10654,12 +10654,12 @@ If the \ulwave client_id\ulnone  is known by the server, the server will return 
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">3.6.2020::16:0:11</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.24.2020::14:13:13</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">Allows to model a data representing the status of a opening session request from a client to a cryptographic server.</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">3.6.2020::16:0:11</_modifiedTime>
+			<_modifiedTime type="a">4.24.2020::14:13:13</_modifiedTime>
 			<_lastID type="a">3</_lastID>
 			<_kind type="a">Enumeration</_kind>
 			<AggregatesList type="e">
@@ -10690,14 +10690,14 @@ If the \ulwave client_id\ulnone  is known by the server, the server will return 
 		<IType type="e">
 			<_id type="a">GUID 8d729e31-fdf4-4c9b-b971-042c7d6502dd</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">E_SESSION_STATUS</_name>
+			<_name type="a">E_Crypto_Session_Status</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\..\..\Software_Model_Toolset\Rhapsody_Profiles\Software_Data_Type_Metamodel.sbsx</_hfilename>
 							<_hsubsystem type="a">Software_Data_Type_Metamodel::Stereotypes</_hsubsystem>
 							<_hname type="a">Data_Type</_hname>
 							<_hid type="a">GUID e059166f-c470-4144-ae7d-af8a82db546f</_hid>
@@ -10705,12 +10705,12 @@ If the \ulwave client_id\ulnone  is known by the server, the server will return 
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">3.6.2020::16:0:21</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">4.24.2020::14:13:18</_modifiedTimeWeak>
 			<_description type="p"><IDescription type="e">
 				<_text type="a">Allows to model a data representing the status of a session opened between a client and a cryptographic server.</_text>
 			</IDescription>
 			</_description>
-			<_modifiedTime type="a">3.6.2020::16:0:21</_modifiedTime>
+			<_modifiedTime type="a">4.24.2020::14:13:18</_modifiedTime>
 			<_lastID type="a">6</_lastID>
 			<_kind type="a">Enumeration</_kind>
 			<AggregatesList type="e">
